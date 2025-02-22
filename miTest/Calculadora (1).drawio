@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Página-1" id="FIuTYzJgw-pQCWncEZvi">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rBS71kXJ-jFO3W78x1bZ-16" value="Calculadora" style="shape=swimlane;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rBS71kXJ-jFO3W78x1bZ-17" value="- num1: float&#xa;- num2: float" style="shape=rectangle;" vertex="1" parent="rBS71kXJ-jFO3W78x1bZ-16">
+          <mxGeometry y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rBS71kXJ-jFO3W78x1bZ-18" value="+ sumar(): float&#xa;+ restar(): float&#xa;+ multiplicar(): float&#xa;+ dividir(): float&#xa;+ residuo(): float" style="shape=rectangle;" vertex="1" parent="rBS71kXJ-jFO3W78x1bZ-16">
+          <mxGeometry y="70" width="180" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
